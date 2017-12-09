@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FlushService</string>
+    <string name="some_hint">A notification has to contain this text:</string>
+    <string name="store">Store</string>
+    <string name="defaultChars">Sending Tweet</string>
+    <string name="sorry">Sorry, but \'%s\' needs really access to
+        your notifications. You have to add these access in
+        your phone preferences!</string>
+    <string name="ok">Ok</string>
+</resources>

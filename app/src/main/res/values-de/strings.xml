@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FlushService</string>
+    <string name="defaultChars">Tweet wird gesendet</string>
+    <string name="ok">Okay</string>
+    <string name="store">Speichern</string>
+    <string name="some_hint">Eine Benachrichtigung muss folgenden Text enthalten:</string>
+    <string name="sorry">Tut mir leid, aber \'%s\' braucht natürlich Zugriff auf
+        deine Benachrichtigungen. Diesen Zugriff der App musst du in den Einstellungen deines
+        Smartphones gewähren!</string>
+</resources>
